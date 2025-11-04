@@ -1,0 +1,32 @@
+[
+  {
+    "tipo": "suma",
+    "a": 40,
+    "b": 10,
+    "resultado": 50
+  },
+  {
+    "tipo": "suma",
+    "a": 10,
+    "b": 5,
+    "resultado": 15
+  },
+  {
+    "tipo": "resta",
+    "a": 40,
+    "b": 20,
+    "resultado": 20
+  },
+  {
+    "tipo": "resta",
+    "a": 10,
+    "b": 5,
+    "resultado": 5
+  },
+  {
+    "tipo": "resta",
+    "a": 50,
+    "b": 25,
+    "resultado": 25
+  }
+]
